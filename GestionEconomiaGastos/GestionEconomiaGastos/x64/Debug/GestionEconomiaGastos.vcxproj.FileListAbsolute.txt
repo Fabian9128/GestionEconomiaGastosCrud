@@ -1,0 +1,9 @@
+C:\Users\fagonzalez\Desktop\FABIÁN\GIT\GestionEconomiaGastosCrud\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.vcxproj.AssemblyReference.cache
+C:\Users\fagonzalez\Desktop\FABIÁN\GIT\GestionEconomiaGastosCrud\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.vcxproj.GenerateResource.cache
+C:\Users\fagonzalez\Desktop\FABIÁN\GIT\GestionEconomiaGastosCrud\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.Principal.resources
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.vcxproj.AssemblyReference.cache
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.Principal.resources
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.vcxproj.GenerateResource.cache
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.Gastos.resources
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.Inversion.resources
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\x64\Debug\GestionE.9763863B.Up2Date

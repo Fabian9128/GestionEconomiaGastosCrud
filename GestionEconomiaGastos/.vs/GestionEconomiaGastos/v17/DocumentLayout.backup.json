@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\DB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\DB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Gastos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Gastos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Gastos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Inversion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Inversion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Inversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{E1A4B9D3-68A5-4F0B-98B5-64140D24A7F8}|GestionEconomiaGastos\\GestionEconomiaGastos.vcxproj|solutionrelative:GestionEconomiaGastos\\Principal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.h",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\DB.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.h",
+              "RelativeToolTip": "GestionEconomiaGastos\\DB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-27T17:15:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DB.cpp",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.cpp",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\DB.cpp",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\DB.cpp",
+              "RelativeToolTip": "GestionEconomiaGastos\\DB.cpp",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1EAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T17:15:06.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inversion.h",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Inversion.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h",
+              "RelativeToolTip": "GestionEconomiaGastos\\Inversion.h",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:54:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gastos.cpp",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.cpp",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Gastos.cpp",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.cpp",
+              "RelativeToolTip": "GestionEconomiaGastos\\Gastos.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T17:21:24.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inversion.cpp",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.cpp",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Inversion.cpp",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.cpp",
+              "RelativeToolTip": "GestionEconomiaGastos\\Inversion.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T17:44:53.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gastos.h",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Gastos.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h",
+              "RelativeToolTip": "GestionEconomiaGastos\\Gastos.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:18:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Principal.h",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Principal.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h",
+              "RelativeToolTip": "GestionEconomiaGastos\\Principal.h",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAH4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T13:02:53.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inversion.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Inversion.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Inversion.h [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEconomiaGastos\\Inversion.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T12:59:10.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gastos.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Gastos.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Gastos.h [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEconomiaGastos\\Gastos.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T13:02:06.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Principal.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h",
+              "RelativeDocumentMoniker": "GestionEconomiaGastos\\Principal.h",
+              "ToolTip": "C:\\Users\\fagonzalez\\Desktop\\FABI\u00C1N\\C\u002B\u002B\\VISUAL STUDIO\\GestionEconomiaGastos\\GestionEconomiaGastos\\Principal.h [Dise\u00F1o]",
+              "RelativeToolTip": "GestionEconomiaGastos\\Principal.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T13:02:49.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

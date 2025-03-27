@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  DB.cpp
+  Gastos.cpp
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Gastos.cpp(30,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/Gastos.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Gastos.cpp(34,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/Gastos.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Gastos.cpp(40,29): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/Gastos.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Gastos.cpp(54,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/Gastos.cpp")
+  
+  Inversion.cpp
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(33,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(34,27): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(35,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(36,28): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(37,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(52,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "/Inversion.cpp")
+  
+C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\GestionEconomiaGastos\Inversion.cpp(38,11): warning C4101: 'porcentaje': variable local sin referencia
+  (compilando archivo de origen "/Inversion.cpp")
+  
+  Principal.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  GestionEconomiaGastos.vcxproj -> C:\Users\fagonzalez\Desktop\FABIÁN\C++\VISUAL STUDIO\GestionEconomiaGastos\x64\Debug\GestionEconomiaGastos.exe
